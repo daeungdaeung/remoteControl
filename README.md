@@ -10,7 +10,7 @@
 ## 수행한 일
 
 - Bread board와 저항, 트랜지스터를 활용하여 Amplifier 제작
-  ![](amplifier.jpg)
+  ![](amplifier.JPG)
 
 - 라즈베리파이에 코드 작성
 
